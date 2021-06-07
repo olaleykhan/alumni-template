@@ -1,11 +1,6 @@
-.search-bar{
-    display: flex;
+.nav-bar{
+    display:  flex;
+    /* justify-items: space-between; */
     justify-content: space-between;
-    border: 1px solid grey;
-    width: 30%;
-    font-weight: thin;
-    min-width: 200px;
-    color: grey;
-    align-items: center;
-    padding: 5px 8px;
+    width: 100%;
 }
